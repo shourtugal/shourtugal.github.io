@@ -127,6 +127,28 @@ h3 {
 .project:hover {
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
 }
+
+/*footer*/
+
+.footer {
+  width: 100%;
+  text-align: center;
+  padding: 30px 0;
+}
+
+.footer h4 {
+  font-weight: 600;
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+
+.icons .fa-brands {
+  color: black;
+  margin: 0 13px;
+  cursor: pointer;
+  padding: 30px 0;
+}
+
 @media (max-width: 700px) {
   .text-box h1 {
     font-size: 20px;
